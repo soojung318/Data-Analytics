@@ -1,2 +1,2 @@
-# algorithms-python
-Study python
+# Data Analytics
+with python
